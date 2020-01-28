@@ -4,7 +4,7 @@ def countdown(secs)
   secs -= 1 
 end
 end
-puts "HAPPY NEW YEAR!"
+"HAPPY NEW YEAR!"
 
 
 
